@@ -1,5 +1,19 @@
 # Ant Colony Optimization (ACO) for Traveling Salesman Problem
 
+## Table of Contents
+- [What is Ant Colony Optimization?](#what-is-ant-colony-optimization)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Algorithm Parameters](#algorithm-parameters)
+- [Algorithm Details](#algorithm-details)
+- [Performance Analysis](#performance-analysis)
+- [Visualization Features](#visualization-features)
+- [Visualization Results](#visualization-results)
+- [Test Results](#test-results)
+- [Implementation Details](#implementation-details)
+- [Customization](#customization)
+
 This project implements a comprehensive Ant Colony Optimization algorithm to solve the Traveling Salesman Problem (TSP). The implementation includes advanced features like pheromone trail management, heuristic-based city selection, and elitist strategy for solution reinforcement.
 
 ## What is Ant Colony Optimization?
